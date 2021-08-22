@@ -1,6 +1,6 @@
 # Laravel 7 Room Booking demo
 
-Simple project with ability to search for available room and book them, also see events on the calendar, filtered by room or booked user.
+This application search for available room and book them, also see events on the calendar, filtered by room or booked user.
 
 ![Laravel Room Booking screenshot](https://quickadminpanel.com/blog/wp-content/uploads/2020/04/Screen-Shot-2020-04-11-at-9.22.39-PM.png)
 
